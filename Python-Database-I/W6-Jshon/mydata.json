@@ -1,0 +1,89 @@
+{
+    "status": "OK", 
+    "results": [
+        {
+            "geometry": {
+                "location_type": "APPROXIMATE", 
+                "bounds": {
+                    "northeast": {
+                        "lat": 12.0362252, 
+                        "lng": 79.8614376
+                    }, 
+                    "southwest": {
+                        "lat": 12.013575, 
+                        "lng": 79.84336499999999
+                    }
+                }, 
+                "viewport": {
+                    "northeast": {
+                        "lat": 12.0362252, 
+                        "lng": 79.8614376
+                    }, 
+                    "southwest": {
+                        "lat": 12.013575, 
+                        "lng": 79.84336499999999
+                    }
+                }, 
+                "location": {
+                    "lat": 12.0263438, 
+                    "lng": 79.8492812
+                }
+            }, 
+            "address_components": [
+                {
+                    "long_name": "Pondicherry University", 
+                    "types": [
+                        "neighborhood", 
+                        "political"
+                    ], 
+                    "short_name": "Pondicherry University"
+                }, 
+                {
+                    "long_name": "Kalapet", 
+                    "types": [
+                        "locality", 
+                        "political"
+                    ], 
+                    "short_name": "Kalapet"
+                }, 
+                {
+                    "long_name": "Pondicherry", 
+                    "types": [
+                        "administrative_area_level_2", 
+                        "political"
+                    ], 
+                    "short_name": "Pondicherry"
+                }, 
+                {
+                    "long_name": "Puducherry", 
+                    "types": [
+                        "administrative_area_level_1", 
+                        "political"
+                    ], 
+                    "short_name": "PY"
+                }, 
+                {
+                    "long_name": "India", 
+                    "types": [
+                        "country", 
+                        "political"
+                    ], 
+                    "short_name": "IN"
+                }, 
+                {
+                    "long_name": "605014", 
+                    "types": [
+                        "postal_code"
+                    ], 
+                    "short_name": "605014"
+                }
+            ], 
+            "place_id": "ChIJW1cIV7VlUzoRQaT4bPXwmxw", 
+            "formatted_address": "Pondicherry University, Kalapet, Puducherry 605014, India", 
+            "types": [
+                "neighborhood", 
+                "political"
+            ]
+        }
+    ]
+}
